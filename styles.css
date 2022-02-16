@@ -69,18 +69,18 @@ p {
     margin-left: 5px;
 }
 
-.plan span {
+.plan div {
     float: right;
     margin-right: 130px;
     text-align: left;
 }
 
-.plan span h2 {
+.plan div h2 {
     font-size: 1.2rem;
     margin-top: 10px;
 }
 
-.plan span a {
+.plan div a {
     position: relative;
     left: 170px;
     bottom: 35px;
@@ -88,7 +88,7 @@ p {
     font-weight: 545;
 }
 
-.plan span a:hover {
+.plan div a:hover {
     text-decoration: none;
     opacity: 0.7;
 }
