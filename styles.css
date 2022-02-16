@@ -64,12 +64,12 @@ p {
     width: 50px;
     height: 50px;
     margin-top: 10px;
-    margin-left: 15px;
+    margin-left: 5px;
 }
 
 .plan span {
     float: right;
-    margin-right: 120px;
+    margin-right: 130px;
     text-align: left;
 }
 
@@ -80,7 +80,7 @@ p {
 
 .plan span a {
     position: relative;
-    left: 150px;
+    left: 170px;
     bottom: 35px;
     color: var(--bright-blue);
     font-weight: 545;
@@ -105,6 +105,7 @@ p {
 
 .btn-one:hover {
     opacity: 0.7;
+    cursor: pointer;
 }
 
 .btn-two {
